@@ -5,7 +5,7 @@ count = int(input("몇 잔 주문하시겠어요?:"))
 americano = "아메리카노"
 latte = "라떼"
 
-total = count * 3000
+total = count * 3000 # 5000으로 바꿔줘요
 
 if drink == americano:
     print("총 금액은", total, "원입니다.")
