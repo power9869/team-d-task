@@ -2,6 +2,7 @@
 
 drink = input("음료를 선택하세요:")
 count = int(input("몇 잔 주문하시겠어요?:"))
+# 아메리카노 > americano로 변경
 americano = "아메리카노"
 latte = "라떼"
 
